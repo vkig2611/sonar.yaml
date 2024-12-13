@@ -1,0 +1,2 @@
+# sonar.yaml
+n/a
